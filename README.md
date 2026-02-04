@@ -22,7 +22,7 @@ Ideal for learning **FastAPI**, **API authentication**, and basic **cybersecurit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/url-safety-checker-api.git
+git clone https://github.com/shayan-CEH/url-safety-checker-api.git
 ```
 ```
 cd url-safety-checker-api
