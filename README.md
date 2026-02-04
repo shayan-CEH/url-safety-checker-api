@@ -5,7 +5,7 @@ Ideal for learning **FastAPI**, **API authentication**, and basic **cybersecurit
 
 ---
 
-## Features
+## Features 
 
 - ✅ Signup & Login system (token-based authentication)
 - ✅ URL phishing detection (keywords, fake domains)
